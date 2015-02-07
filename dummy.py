@@ -8,7 +8,7 @@ def foo():
 
 def bar():
 	"""
-	one more placeholder function for future usage.
+	one more placeholder function for future usage. this is conflict line.
 	"""
 	return list()
 
