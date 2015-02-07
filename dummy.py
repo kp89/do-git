@@ -6,6 +6,13 @@ def foo():
 	"""
 	return None
 
+def bar():
+	"""
+	one more placeholder function for future usage.
+	"""
+	return list()
+
+
 def main():
 	pass
 
