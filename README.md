@@ -2,3 +2,5 @@
 Git learning and tryouts
 
 master loves git in terminal only
+
+Git is good.
