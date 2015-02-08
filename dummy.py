@@ -10,7 +10,7 @@ def bar():
 	"""
 	one more placeholder function for future usage. this is conflict line.
 	"""
-	return set()
+	return set() # Considering this data-structure is cool decision.
 
 
 def main():
