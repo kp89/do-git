@@ -10,7 +10,7 @@ def bar():
 	"""
 	one more placeholder function for future usage. this is conflict line.
 	"""
-	return list()
+	return list() # TODO - think about better solution
 
 
 def main():
