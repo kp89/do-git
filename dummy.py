@@ -26,6 +26,9 @@ class LinkedList():
     def delete(self, index):
         pass
 
+    def __str__(self):
+        pass
+
 def main():
 	pass
 
