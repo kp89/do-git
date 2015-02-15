@@ -22,6 +22,9 @@ class LinkedList():
 
     def add(self, data):
         pass
+        
+    def size():
+    	pass
 
     def delete(self, index):
         pass
