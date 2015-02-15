@@ -8,4 +8,6 @@ This is conflict line.
 Solve is somehow.
 
 
-rebase is fun but painfull
+rebase is fun but painfull.
+
+I will be trying to update committer name and email using rebase
