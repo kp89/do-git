@@ -29,6 +29,9 @@ class LinkedList():
     def __str__(self):
         pass
 
+    def __len__(self):
+        return self.data.__len__()
+
 def main():
 	pass
 
