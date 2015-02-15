@@ -21,6 +21,9 @@ class Person():
 
     def add(self):
         pass
+        
+    def size():
+    	pass
 
 def main():
 	pass
