@@ -35,6 +35,9 @@ class LinkedList():
     def __len__(self):
         return self.data.__len__()
 
+    def size():
+    	pass
+
 def main():
 	pass
 
