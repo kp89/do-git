@@ -13,6 +13,15 @@ def bar():
 	return set() # Considering this data-structure is cool decision.
 
 
+class Person():
+
+    def __init__(self):
+        pass
+
+
+    def add(self):
+        pass
+
 def main():
 	pass
 
