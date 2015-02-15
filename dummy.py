@@ -13,13 +13,17 @@ def bar():
 	return set() # Considering this data-structure is cool decision.
 
 
-class Person():
+class LinkedList():
 
     def __init__(self):
+        self.data = []
         pass
 
 
-    def add(self):
+    def add(self, data):
+        pass
+
+    def delete(self, index):
         pass
 
 def main():
