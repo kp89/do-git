@@ -11,3 +11,8 @@ Solve is somehow.
 rebase is fun but painfull.
 
 I will be trying to update committer name and email using rebase
+
+######## I want to delete everything after this
+entry 1
+entry 2
+
